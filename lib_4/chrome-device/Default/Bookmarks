@@ -1,0 +1,93 @@
+{
+   "checksum": "606155fbd8b912bf57143bc7281e5626",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13344960687247564",
+            "date_last_used": "0",
+            "guid": "ce12d292-ebdd-48ef-9b46-3c02c3d019c1",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AI-помощник QuestionAI для домашних заданий с использованием GPT4",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chromewebstore.google.com/detail/ai-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA-questionai-%D0%B4%D0%BB/hajphibbdloomfdkeoejchiikjggnaif?utm_source=ext_chat&pli=1",
+            "visit_count": 0
+         }, {
+            "date_added": "13375028324556448",
+            "date_last_used": "0",
+            "guid": "0459eb13-8835-4b26-a1e9-917ed61bacd7",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kotlin Playground: Edit, Run, Share Kotlin Code Online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMi4wLjIxIiwicGxhdGZvcm0iOiJqYXZhIiwiYXJncyI6IiIsIm5vbmVNYXJrZXJzIjp0cnVlLCJ0aGVtZSI6ImlkZWEiLCJjb2RlIjoiLyoqXG4gKiBZb3UgY2FuIGVkaXQsIHJ1biwgYW5kIHNoYXJlIHRoaXMgY29kZS5cbiAqIHBsYXkua290bGlubGFuZy5vcmdcbiAqL1xuZnVuIG1haW4oKSB7XG4vLyAgICAgdmFsIG5hbWUgPSBcItCQ0LvQtdC60YFjY9C10LlcIlxuLy8gXHR2YWwgYWdlID0gMjVcbi8vIFx0dmFsIGlzU3R1ZGVudCA9IGZhbHNlXG5cbi8vIFx0cHJpbnRsbihcItCY0LzRjzogJG5hbWVcIilcbi8vIFx0cHJpbnRsbihcItCS0L7Qt9GA0LDRgdGCOiAkYWdlIFwiKVxuLy8gXHRwcmludGxuKFwi0KHRgtGD0LTQtdC90YI6ICRpc1N0dWRlbnRcIilcbiAgICBcbi8vICAgICB2YWwgc2NvcmUgPSA4NVxuXG4vLyAgICAgaWYgKHNjb3JlID49IDkwKSB7XG4vLyAgICAgICAgIHByaW50bG4oXCLQntGC0LvQuNGH0L3QviFcIilcbi8vICAgICB9IGVsc2UgaWYgKHNjb3JlID49IDgwKSB7XG4vLyAgICAgICAgIHByaW50bG4oXCLQpdC+0YDQvtGI0L4hXCIpXG4vLyAgICAgfSBlbHNlIHtcbi8vICAgICAgICAgcHJpbnRsbihcItCf0L7Qv9GA0L7QsdGD0LnRgtC1INC10YnQtSDRgNCw0LcuXCIpXG4vLyAgICAgfVxuICAgIFxuLy8gICAgIHZhbCBudW1iZXJzID0gbGlzdE9mKDEsIDIzLCA0MywzNCwgNSlcblxuLy8gICAgIGZvciAobnVtYmVyIGluIG51bWJlcnMpIHtcbi8vICAgICAgICAgcHJpbnRsbihudW1iZXIpXG4vLyAgICAgfVxuICAgIFxuLy8gICAgIGZ1biBzdW0oYTogSW50LCBiOiBJbnQsIGM6IEludCk6IEludCB7XG4vLyAgICAgcmV0dXJuIChhICsgYiAqIGEpL2Ncbi8vIH1cblxuLy8gICAgIHZhbCByZXN1bHQgPSBzdW0oMiwgMywgNClcbi8vICAgICBwcmludGxuKHJlc3VsdClcbn1cbiJ9",
+            "visit_count": 1
+         }, {
+            "date_added": "13387304212388779",
+            "date_last_used": "0",
+            "guid": "057da7fd-4e75-49ae-ba00-b2bcb1a5196f",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Node.js — Download Node.js®",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://nodejs.org/en/download",
+            "visit_count": 1
+         }, {
+            "date_added": "13391302935560069",
+            "date_last_used": "0",
+            "guid": "1efc7d8d-3b99-42db-9460-c835e49acb60",
+            "id": "10",
+            "name": "Яндекс",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://www.ya.ru/?win=697&clid=5988332-106&from=dist_bookmark",
+            "visit_count": 0
+         } ],
+         "date_added": "13403904834544768",
+         "date_last_used": "0",
+         "date_modified": "13391302935560069",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13403904834544768",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13403904834544768",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCB81QqaZAQAAKg4QABgBIAAoBjAAOABAABIAKhgxMjd5aWhUVDh0eGlITUJDRFQzaUNRPT1IA6AGDBKtAQgJEqgBChxzaC9jNitRQnROajZvODM3dDZmaStwQWNzSTg9EiQwNTdkYTdmZC00ZTc1LTQ5YWUtYmEwMC1iMmJjYjFhNTE5NmYYACAAKAAw3e+yxtwyOMfwssbcMkDH8LLG3DJKHGNBTE5iY2JTUGZWZmw0TG5iUGFSMEFqNEtxST1aHyId3EQ3ZkIwamRzY3JaY2w1dSt5RklCaXcxWmRwQT1lVdwWp8I+AmAFEq0BCAgSqAEKHGt3dVZmTFdkb25lYjhNdWxCMnUvR3QxM0NpOD0SJDA0NTllYjEzLTg4MzUtNGIyNi1hMWU5LTkxN2VkNjFiYWNkNxgAIAAoADD1leborjI43pbm6K4yQN6W5uiuMkoceHora0p4TkZUaHRQZC9lbkdBWWJqaktKTzZzPVofIh25NlpWUXZSWk5lYUdMZVBNWXJxamYxZ1FnZEJFPWU+SUMPwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNjEzZDNkOTUtYTA2My01YzdkLTgxNzYtNTMwMTdkNzk0YjU2GAAgACgAMKr97aO8MTiSgO6jvDFAkoDuo7wxShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEqwBCAcSpwEKHFdzeTV3c3FwQ2ROdXdGMWE4RmhZc3NkK3lwOD0SJGNlMTJkMjkyLWViZGQtNDhlZi05YjQ2LTNjMDJjM2QwMTljMRgAIAAoADDu8O3xvjE47/Ht8b4xQO/x7fG+MUocN3hIZnlyMkJiM2tEOTJPdk1iOWFLOWphOTNjPVoeIhxzUVFJVWZqcUMvaTdxSHFoQnE2UjdUUldoRkE9ZcdpB1jCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRjZGU4YWEzMy1mNTg1LTVjNDUtYjBlMC0xNGRiNjBhMjQyZjAYACAAKAAwq/3to7wxOLGA7qO8MUCxgO6jvDFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEIChKoAQocTDJwbnNkVTdQTlNoRVYxZnIxY2kyMUlLRXdvPRIkMWVmYzdkOGQtM2I5OS00MmRiLTk0NjAtYzgzNWU0OWFjYjYwGAAgACgAMLDMyIWaMziJzsiFmjNAic7IhZozShxEMGdMQWhSeVh3ejdzcE9BVFpTT0o4M3hyQUE9Wh8iHe5abFRyMXhUajNET0ZJZVRQSHQ1Y0s0U0t6Nzg9ZQAAAADCPgJgAhKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ4NTBiYWMxNy0yMmU4LTU1Y2QtODAwOS04ZmNjMTkwZjgxZGUYACAAKAAwsP3to7wxOI+B7qO8MUCPge6jvDFKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}
